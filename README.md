@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aasavari30&label=Profile%20views&color=0e75b6&style=flat" alt="aasavari30" /> </p>
 
 - 🔭 I’m currently working on [SamacharStory.com](https://samacharstory.com/)
+- - 1️⃣ This is my Live Projects [taazaanews.com](https://taazaanews.com/)
 
 - 🌱 I’m currently learning **MSc.CSE (Artificial Intelligence)**
 
