@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aasavari30&label=Profile%20views&color=0e75b6&style=flat" alt="aasavari30" /> </p>
 
 - 🔭 I’m currently working on [SamacharStory.com](https://samacharstory.com/)
-- - 1️⃣ This is my Live Projects [taazaanews.com](https://taazaanews.com/)
+- On samacharstory.com, we publish news articles based on daily trends, ensuring our readers stay informed with the latest updates. Samacharstory.com is built on the robust WordPress platform and hosted on Hostinger, providing a reliable and efficient user experience.I am posting high-quality articles and optimizing them using advanced SEO techniques to maximize their visibility and reach. Additionally, we create engaging web stories across various categories, offering a diverse range of content that caters to different interests. Our commitment is to deliver timely and relevant news while continuously enhancing our site's performance and user engagement.
+- 1️⃣ This is my Live Projects [taazaanews.com](https://taazaanews.com/)
 
 - 🌱 I’m currently learning **MSc.CSE (Artificial Intelligence)**
 
